@@ -35,7 +35,7 @@ Analysis of superstore sales data (51,000+ records) to uncover revenue trends, p
 - [x] Dataset loaded into Power BI
 - [x] Date columns formatted correctly - (Power BI)
 - [x] First visual: Sales by Region
-- [ ] Python data cleaning (nulls, duplicates, data types)
+- [x] Python data cleaning (nulls, duplicates, data types)
 - [ ] Exploratory Data Analysis (EDA) - (Python)
 - [ ] SQL queries for business questions
 - [ ] Profit & discount analysis
